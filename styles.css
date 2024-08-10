@@ -1,0 +1,31 @@
+.intro{
+    width: 450px;
+    font-size: 40px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.content-food{
+    width: 80%;
+    margin: 0 auto;
+}
+.food-images{
+    width: 100px;
+
+    object-fit: contain;
+}
+.main-container{
+    /* background-color: bisque; */
+    width: 100px;
+}
+.info{
+    align-items: center;
+    text-align: center;
+}
+.text{
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
